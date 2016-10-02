@@ -1,2 +1,2 @@
-# poo-code-education
+# POO Code Education
 Exercício do Code education sobre progração orientada a objetos
